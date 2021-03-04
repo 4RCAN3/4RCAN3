@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning web and gui development with python.
+- 🔭 &nbsp; Currently learning web and gui development with python.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Freelancer on [Fiverr](https://www.fiverr.com/arc4_n3)
