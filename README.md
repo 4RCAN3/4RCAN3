@@ -1,5 +1,5 @@
 <h2> ARC4N3 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350"/>
+<img align="right" alt="GIF" src="https://cdnb.artstation.com/p/assets/images/images/010/538/265/original/dane-vranes-datascience-optimized.gif" width="350"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
