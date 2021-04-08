@@ -1,5 +1,5 @@
 <h2> ARC4N3 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/xT4uQF7h39mlsF5czK/giphy.gif" width="350"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" width="350"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
