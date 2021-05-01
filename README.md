@@ -24,6 +24,8 @@
 
 </br>
 
+![](https://komarev.com/ghpvc/?4RCAN3&label=PROFILE+VIEWS&color=blueviolet&style=plastic)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
